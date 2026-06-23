@@ -19,6 +19,18 @@ Sou estudante de tecnologia e entusiasta de programação, com foco em Python, a
 
 ---
 
+## 📂 Projetos em Destaque
+
+Aqui estão alguns dos projetos desenvolvidos por mim para aplicar conceitos teóricos em soluções práticas:
+
+* **[Projeto de Previsão com Machine Learning](https://github.com/LuizBarone07/Projeto-de-Previsao-com-Machine-Learning)** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+  *Desenvolvimento e treinamento de modelos de Inteligência Artificial para classificação e previsão de dados, aplicando algoritmos de Machine Learning e preparando dados brutos em insights preditivos.*
+
+* **[Análise de Dados com Pandas](https://github.com/LuizBarone07/Analise-de-dados-com-Pandas)** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+  *Manipulação, tratamento, limpeza e análise exploratória de grandes volumes de dados utilizando a biblioteca Pandas, focando na geração de relatórios de inteligência de negócios.*
+
+---
+
 ## 📚 Atualmente Estudando
 
 - Python Avançado
