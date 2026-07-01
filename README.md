@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos desenvolvidos por mim para aplicar conceitos te�
   *Manipulação, tratamento, limpeza e análise exploratória de grandes volumes de dados utilizando a biblioteca Pandas, focando na geração de relatórios de inteligência de negócios.*
 
 🗄️ **[SQLAlchemy – CRUD com ORM](https://github.com/LuizBarone07/SQLAlchemy)** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-Projeto desenvolvido para praticar os principais conceitos do SQLAlchemy, incluindo modelagem de tabelas, gerenciamento de sessões (Session), operações CRUD (Create, Read, Update e Delete) e integração com banco de dados SQLite utilizando ORM.
+*Projeto desenvolvido para praticar os principais conceitos do SQLAlchemy, incluindo modelagem de tabelas, gerenciamento de sessões (Session), operações CRUD (Create, Read, Update e Delete) e integração com banco de dados SQLite utilizando ORM.*
 
 ---
 
